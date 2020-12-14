@@ -5,7 +5,7 @@ import sys;
 import struct;
 
 
-ROM_FILE_NAME = 'baserom.z64'
+ROM_FILE_NAME = 'baserom_non_mq.z64'
 FILE_TABLE_OFFSET = 0x12F70
 FILE_COUNT = 1532
 

@@ -12,8 +12,9 @@ This is a WIP decompilation of The Legend of Zelda: Ocarina of Time.
 The purpose of the project is to recreate a source code base for the game from scratch, using information found inside the game along with static and/or dynamic analysis.
 The only build currently supported is Master Quest (Debug), but other versions are planned to be supported.
 
-It builds the following ROM:
+It builds the following ROMs:
 
+* zelda_ocarina_dbg.z64 `md5: 9c1d795429220f5389045693a011b8f6`
 * zelda_ocarina_mq_dbg.z64 `md5: f0b7f35375f9cc8ca1b2d59d78e35405`
 
 **Note:** This repository does not include any of the assets necessary to build the ROM.

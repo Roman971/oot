@@ -15,7 +15,7 @@ void EnXc_Destroy(Actor* thisx, GlobalContext* globalCtx);
 void EnXc_Update(Actor* thisx, GlobalContext* globalCtx);
 void EnXc_Draw(Actor* thisx, GlobalContext* globalCtx);
 
-extern UNK_TYPE D_02000330;
+extern UNK_TYPE D_02000250;
 extern UNK_TYPE D_02003F80;
 extern UNK_TYPE D_020045D0;
 extern UNK_TYPE D_020046F0;
